@@ -18,7 +18,7 @@ const projects = [
     title: "Portofolio Web",
     description: "Website portofolio pribadi untuk menampilkan profil Salman Alfarisi...",
     image: "/assets/Logo salman.png",
-    link: "https://salman-portfolio.vercel.app",
+    link: "https://https://portofolio-salman-gray.vercel.app/",
   },
 ];
 
